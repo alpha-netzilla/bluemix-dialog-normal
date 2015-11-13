@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "body-parser": "~1.14.1",
-    "errorhandler": "~1.4.1",
+    "errorhandler": "~1.4.2",
     "express": "~4.13.3",
     "watson-developer-cloud": "~0.10.6"
   }
